@@ -53,4 +53,5 @@ The dashboard provides insights into bookings, revenue, cancellations, vehicle t
 * Automated analysis of *cancellation reasons* for better driver-customer matching.
 * Enhanced *customer rating system* to provide deeper insights into satisfaction levels.
 
-
+## Dashboard Preview
+![OLA DASHBOARD]()
